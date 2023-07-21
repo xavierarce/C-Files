@@ -22,6 +22,18 @@ int main(void){
 
   printf("%f\n",z);
 
+    //!Augmented assigment operator
+    int q = 10;
+    q+=2;
+    q-=5;
+    q*=2;
+    q/=2;
+    q%=2;
+
+
+  printf("%d\n",q);
+
+
   return 0;
 
 
