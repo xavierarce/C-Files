@@ -50,11 +50,6 @@ int main(void){
     printf("%lld\n",l); //!lf Doubles    
     printf("%llu\n",m); //!lf Doubles    
 
-
-    // printf("Your PI is %lf\n",pi); //!lf Doubles    
-
-    // printf("Your GPA is %f\n",gpa);    
-
     return 0;
 
 }
