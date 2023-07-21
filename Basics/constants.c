@@ -6,7 +6,23 @@ int main(void){
 
   //* PI = 4.321; not possible cause its constant
 
-  printf("%.f",pi);
+  printf("%f\n",PI);
 
-    return 0;
+    //! Arithmetic Operators
+  int x = 5;
+  int y = 2;
+  // int x = 5;
+  // float y = 2;
+
+  float z = x *y;
+  z = x/ (float) y; //division //!CAUTION
+  z = x % y; //(modulus)
+  z++; //Augmentation
+  z--; // Substraction
+
+  printf("%f\n",z);
+
+  return 0;
+
+
 }
