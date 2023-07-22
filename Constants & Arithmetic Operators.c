@@ -23,7 +23,7 @@ int main(void){
   printf("%f\n",z);
 
     //!Augmented assigment operator
-    int q = 10;
+    int q = 20;
     q+=2;
     q-=5;
     q*=2;
