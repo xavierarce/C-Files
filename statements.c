@@ -2,7 +2,7 @@
 
 int main(void){
 
-  // //! IF && ELSE IF STATEMENT
+  //! IF && ELSE IF STATEMENT
 
   int age;
 
@@ -22,11 +22,16 @@ int main(void){
   }
 
   //! SWITCH STATEMENT
-  
+
   char grade;
 
   printf("\nPlease enter your grade: ");
-  scanf("%c",&grade);
+  scanf("%c",&grade); //!Leave an space
+
+  //? Alternative
+  //? scanf("%c", &grade);
+  //? getchar(); // This will read the enter key that was pressed after the grade was entered.
+
 
   switch (grade){
   case 'A':
