@@ -4,7 +4,7 @@ void salutation(int n){
   for (int i = 0; i < n; i++) {
     printf("\nHola nina");
     printf("\n Thats not it");
-    printf("\n Ta to bien?");
+    printf("\n Readlly?");
     }
 }
 
