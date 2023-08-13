@@ -8,7 +8,7 @@ double square(double x)
 
 int main()
 {
-  double x = square(3.14);
+  double x = square(3.10);
   printf ("%lf",x);
 
   return 0;
