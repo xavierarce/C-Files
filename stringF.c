@@ -15,11 +15,17 @@ int main(){
 
   // strset(string1,'?');
   // strnset(string1,'?',1);
-  strrev(string1);
-  printf("\n%s",string1);
+  // strrev(string1);
+  
+  // printf("\n%s",string1);
 
 
-  int result = strlen(string1);
+  // int result = strlen(string1);
+  // int result = strcmp(string1,string2);
+  // int result = strncmp(string1,string2,1);
+  // int result = strcmpi(string1,string2); Ignore case sensitive
+  // int result = strncmpi(string1,string2,1); Ignore Caste sesitive
+  
 
   printf("\n%d",result);
 
