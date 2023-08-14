@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void hello(int,char[]); //! Function prototype
+void hello(int,char[]); //! Function prototype : Ensures number and types of arguments
+
 int main(){
 
   char name[] = "Joseph";
@@ -16,5 +17,4 @@ int main(){
 
 void hello(int age, char name[]){
   printf("\n Hello %s you are %d years old",name, age);
-
 }
