@@ -11,7 +11,7 @@ int main(void){
   double circumference;
   double area;
 
-  printf("Circunmference Calculator!\n")
+  printf("Circunmference Calculator! \n")
   printf("Enter the radius of a circle: ");
   scanf("%lf",&radius);
 
