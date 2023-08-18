@@ -22,7 +22,7 @@ int main(void){
   printf("Area %lf \n", area);
 
   
-  //! Calculador de Hypotenusa
+  //! Calculador de Hypotenusa.
 
   double A;
   double B;
