@@ -15,7 +15,7 @@ int main(){
 
 // While Loops
 int main(){
-  char name[25];
+  char name[2];
 
   printf("What's your name\n");
   fgets(name,25,stdin);
