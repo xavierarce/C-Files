@@ -19,7 +19,7 @@ int main(){
 
   printf("What's your name\n");
   fgets(name,25,stdin);
-  name[strlen(name)-1]='\0';
+  name[strlen(namMe)-1]='\0';
 
   while(strlen(name)==0){
     printf("Need to enter your Name\n"); 
