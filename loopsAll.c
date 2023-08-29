@@ -6,7 +6,7 @@
 int main(){
   
   for(int i =1; i<=10 ; i++){
-    printf("%dssd",i);
+    printf("%d",i);
   }
   
   return 0;
