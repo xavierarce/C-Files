@@ -6,7 +6,7 @@
 int main(){
   
   for(int i =1; i<=10 ; i++){
-    printf("%dsq",i);
+    printf("%d",i);
   }
   
   return 0;
