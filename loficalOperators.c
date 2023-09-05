@@ -8,7 +8,7 @@ int main(void){
 
   //! && Operator
   if(temp >= 0 && temp <=35 || sunny==true){
-    printf("\nWeatdher is good");
+    printf("\nWeather is good");
   }else{
     (printf("\nCatastrofic man!"));
   }
